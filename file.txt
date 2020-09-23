@@ -1,0 +1,2 @@
+Hi, this is Yongmei Chen
+This is me editing file.txt using the nano editor.Bye
